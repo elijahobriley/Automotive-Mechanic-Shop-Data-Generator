@@ -1,4 +1,4 @@
-![[image.png]]
+![image_mechanic](https://github.com/elijahobriley/Automotive-Mechanic-Shop-Data-Generator/assets/166941664/1addbfbd-0736-4995-b6be-c7df343cb449)
 ## Automotive Mechanic Shop Data Generator
 
 by Elijah O.B. Riley
@@ -85,6 +85,7 @@ eg. a Ford Mustang's oil change will cost:
 ## Export CSV file
 Finally,  the dataframe is exported as a csv file.
 
-![[Image_of_csv.png]]
+![Dataframe](https://github.com/elijahobriley/Automotive-Mechanic-Shop-Data-Generator/assets/166941664/0e8c48f8-30bd-456f-8f36-9829d2159665)
+
 
 banner image: [source of image](https://www.freepik.com/free-photo/medium-shot-man-checking-car_38170179.htm#fromView=search&page=3&position=13&uuid=daa046cc-e540-4431-a5a2-755a43191334)
