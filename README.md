@@ -85,7 +85,7 @@ eg. a Ford Mustang's oil change will cost:
 ## Export CSV file
 Finally,  the dataframe is exported as a csv file.
 
-![Dataframe](https://github.com/elijahobriley/Automotive-Mechanic-Shop-Data-Generator/assets/166941664/0e8c48f8-30bd-456f-8f36-9829d2159665)
+![Image_of_csv](https://github.com/elijahobriley/Automotive-Mechanic-Shop-Data-Generator/assets/166941664/dfddb4c0-1fdb-41b8-b6e1-68395ace7ea4)
 
 
 banner image: [source of image](https://www.freepik.com/free-photo/medium-shot-man-checking-car_38170179.htm#fromView=search&page=3&position=13&uuid=daa046cc-e540-4431-a5a2-755a43191334)
